@@ -4,7 +4,7 @@ haha
 come back
 aaa
 <<<<<<< HEAD
-Creating a new branch is quick AND simple.
-=======
+Creating a new branch is quick AND simple.haha
+======
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
